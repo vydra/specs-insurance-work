@@ -25,10 +25,6 @@ zzzzz
 | Two-pay         | 2        | $3                      |
 | Monthly autopay | 6        | $5                      |
 
-## U2-s4 @v1 [published]
-
-eee
-
 ## Unpaid balance triggers a cancellation notice @v1 [published]
 
 - **Given** an installment still unpaid at the end of the grace period
