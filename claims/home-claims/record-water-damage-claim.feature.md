@@ -3,6 +3,8 @@
 Water losses are the most common homeowners claim and the most
 coverage-sensitive: sudden-and-accidental is covered, gradual is not.
 
+Test 2
+
 ## Burst pipe is covered @v1 [published]
 
 - **Given** a homeowner with an in-force HO-3 policy
