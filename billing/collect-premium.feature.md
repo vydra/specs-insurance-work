@@ -1,9 +1,5 @@
 # Collect Premium
 
-## Draft Scenario @v1 [proposed]
-
-zzzzz
-
 ## Failed autopay starts the grace period @v1 [published]
 
 - **Given** an installment due today
