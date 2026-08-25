@@ -1,5 +1,7 @@
 # Collect Premium
 
+[Jira:ABC-123](https://jira.com/ABC-123)
+
 ## Failed autopay starts the grace period @v1 [published]
 
 - **Given** an installment due today
