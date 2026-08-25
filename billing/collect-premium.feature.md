@@ -23,6 +23,12 @@
 | Two-pay         | 2        | $3                      |
 | Monthly autopay | 6        | $5                      |
 
+## Scenario wqith image @v1 [proposed]
+
+dadad
+
+![image](/api/images/image-d276e823.png)
+
 ## Unpaid balance triggers a cancellation notice @v1 [published]
 
 - **Given** an installment still unpaid at the end of the grace period
